@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * B.Tech in Mechanical Engineering, Uttar Pradesh Technical University, India, 2014
