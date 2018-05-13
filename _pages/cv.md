@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.Tech in Mechanical Engineering, Uttar Pradesh Technical University, India, 2014
+* M.E. in Thermal Engineering, Thapar University, Punjab, India, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Sep 2017-Feb 2018: Project Research Associate
+  * Department of Aerospace Engineering, IIT Bombay
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Prabhu Ramachandran
 
-* Fall 2015: Research Assistant
-  * Github University
+* Mar 2018-Present: Project Technical Assistant
+  * Department of Energy Science & Engineering, IIT Bombay
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Suneet Singh
   
 Skills
 ======
@@ -42,18 +41,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
