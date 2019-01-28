@@ -13,4 +13,4 @@ This paper is a conference article and is related to developement of Nodal integ
 
 [Download paper here](https://www.researchgate.net/publication/329372007_Nodal_Integral_Method_for_Complex_Geometries_Using_Higher_Order_Elements)
 
-Recommended citation: Rishabh Prakash Sharma, Neeraj Kumar (2017). Nodal Integral Method for Complex Geometries Using Higher Order Elements." <i>IHMTC-2017, At: BITS Hyderabad'</i>. 1(2).
+Recommended citation: Rishabh Prakash Sharma, Neeraj Kumar (2017). Nodal Integral Method for Complex Geometries Using Higher Order Elements." <i>IHMTC-2017, At: BITS Hyderabad'</i>.
