@@ -10,6 +10,6 @@ citation: 'Rishabh Prakash Sharma, Neeraj Kumar. (2018).&quot; Nodal integral me
 ---
 This paper is about development of Nodal Integral Method for curved boundaries.
 
-[Download paper here](https://drive.google.com/open?id=1osBu3i_a8K0P3jI0Tl-AC54y_wV6eR5G)
+[Download paper here](https://drive.google.com/open?id=1TdcHQhW9EUX1MXEH_vkT2uUYt9KTywo_)
 
 Recommended citation: Rishabh Prakash Sharma, Neeraj Kumar. (2018). "Nodal integral method for convection-diffusion transport using linear and higher order quadrilateral elements." <i>Numerical Heat Transfer Fundamentals</i>. 1(1).
