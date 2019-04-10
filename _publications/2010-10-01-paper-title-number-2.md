@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-2
 excerpt: 'This paper is a conference article and is related to developement of Nodal integral method for complex geometries to solve diffusion and convection-diffusion equation.'
 date: 2017-12-30
 venue: 'International Heat and Mass transfer conference (IHMTC)-2017, BITS Hyderabad'
-paperurl: 'http://ishmtdigitallibrary.com/conferences/497665e8310dfd2d,6e9515933d4aa1cf,76a2465b1045d77a.html'
+paperurl: 'http://dx.doi.org/10.1615/IHMTC-2017.3130'
 citation: 'Rishabh Prakash Sharma, Neeraj Kumar.(2017).&quot; Nodal Integral Method for Complex Geometries Using Higher Order Elements .&quot; <i>IHMTC-2017, BITS Hyderabad</i>. 1(2).'
 ---
 
